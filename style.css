@@ -1,0 +1,40 @@
+*{margin: 0;
+padding: 0;}
+
+header{text-align:end;
+    background-color: grey;
+}
+#xd{background-image: url(asset/paris.jpg);
+
+width: 100%;
+
+
+}
+#ox{
+background-image: url(asset/tokyo.jpg);
+
+    
+}
+#ab{display: flex;
+    justify-content: space-between;
+    background-image: url(asset/new-york.jpeg);
+}
+#xd{
+    display: flex;
+    align-items: left;
+    height: 500px;
+    
+    
+    
+    }
+.ox{ display: flex;
+    align-items: center;
+    height: 500px;
+}
+#ab{
+    display: flex;
+    align-items:center;
+    height: 500px;
+    
+
+}
